@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Rishabh
-- 👀 I’m passionate about data and its utilization for solving real world problems.
+- 📚 I've been working as a data analyst for past few years.
+- 👀 I’m passionate about data and its applications in solving real world problems.
 - 🌱 I’m currently exploring AI and Data Science.
 - 💞️ I’m looking to collaborate on any data science related projects.
 - 📫 Feel free to contact me on rishabh4745@gmail.com
